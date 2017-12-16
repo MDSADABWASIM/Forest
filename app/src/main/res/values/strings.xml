@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">forest</string>
+    <string name="main_logo">main logo</string>
+    <string name="favorites">favorites</string>
+    <array name="options">
+        <item>ANIMAL</item>
+
+    </array>
+</resources>
