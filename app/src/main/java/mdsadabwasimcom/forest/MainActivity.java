@@ -7,6 +7,7 @@ import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteException;
 import android.database.sqlite.SQLiteOpenHelper;
 
+import android.os.AsyncTask;
 import android.os.Bundle;
 import android.view.View;
 
@@ -98,6 +99,7 @@ public class MainActivity extends Activity {
             Toast.makeText(this,"DATABASE UNAVAILABLE",Toast.LENGTH_LONG).show();
         }
     }
+   
 }
 
 
